@@ -1,0 +1,7 @@
+2023-11-04 21:27:02,760  INFO [main] UsersPage:46 - First name entered as Kasun
+2023-11-04 21:28:30,162  INFO [main] UsersPage:46 - First name entered as Kasun
+2023-11-04 21:40:08,499  INFO [main] UsersPage:46 - First name entered as Kasun
+2023-11-04 21:46:31,509  INFO [main] UsersPage:46 - First name entered as Kasun
+2023-11-04 21:46:31,709  INFO [main] UsersPage:53 - Last name entered as Sigera
+2023-11-04 21:46:31,948  INFO [main] UsersPage:60 - Email entered as kasun2@gmail.com
+2023-11-04 21:46:32,070  INFO [main] UsersPage:65 - New user create button click!
